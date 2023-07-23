@@ -38,13 +38,16 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-<!-- Publications
+Publications
 ======
+A. Altelbani, H. Zhou, S. Mehrdad, F. Alambeigi and S. F. Atashzar, "Design, Fabrication, and Validation of a New Family of 3D-Printable Structurally-Programmable Actuators for Soft Robotics," in IEEE Robotics and Automation Letters, vol. 6, no. 4, pp. 7941-7948, Oct. 2021, doi: 10.1109/LRA.2021.3101860.
+
+<!-- ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
