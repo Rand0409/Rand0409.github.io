@@ -11,32 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mechanical Engineering, New York University, 2027 (expected)
+* M.S. in Mechatronics and Robotics, New York University, 2021
+* B.S. in Mechanical Engineering, Anhui University of Technology, 2018
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Embedded System Engineer, Easy Aerial Inc., 2021 -2023
 
-* Fall 2015: Research Assistant
+  <!-- * Duties included: Tagging issues -->
+  <!-- * Supervisor: Ivan, CTO & Jason VP R&D -->
+
+<!-- * 2021-2022: J
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
