@@ -22,7 +22,8 @@ Work
 * Embedded System Engineer, Easy Aerial Inc., Brooklyn NY US, 2021 -2023
 
 Email:
-hz2206@nyu.edu
+======
+* hz2206@nyu.edu
   <!-- * Duties included: Tagging issues -->
   <!-- * Supervisor: Ivan, CTO & Jason VP R&D -->
 
