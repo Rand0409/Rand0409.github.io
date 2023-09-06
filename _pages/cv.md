@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, New York University, Brooklyn NY US, 2027 (expected)
-* M.S. in Mechatronics and Robotics, New York University, Brooklyn NY US, 2021
-* B.S. in Mechanical Engineering, Anhui University of Technology, MaanShan Anhui China, 2018
-
-
+* Ph.D in Mechanical Engineering, New York University, US, 2027 (expected)
+* M.S. in Mechatronics and Robotics, New York University, US, 2021
+* Exchange student one year in ME & ECE, US, 2017 - 2018
+* B.S. in Mechanical Engineering, Anhui University of Technology, China, 2018
 
 Work
 ======
