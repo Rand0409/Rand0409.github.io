@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Haoran Zhou(周浩然), currently a first year Mechanical Engineering PhD student at NYU Tandon School of Engineering.
+I am Haoran Zhou(周浩然), currently a second year Mechanical Engineering PhD Candidate at NYU Tandon School of Engineering.
 Prior to PhD, I worked as drone embedded system engineer at Easy Aerial Inc. in Brooklyn Navy Yard, NY.
 My current research is mainly focused on da Vinci surgical robotics and robot learning.
 
